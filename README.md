@@ -43,6 +43,11 @@
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 
-
-
 </span>
+
+
+<h2>Github stats</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=carlix-27&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/carlix-27)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=carlix-27&theme=material-palenight)](https://github.com/carlix-27)
+</div>
